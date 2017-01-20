@@ -1,0 +1,25 @@
+{
+  "name": "textlint-sample",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sssinsi/textlint-sample.git"
+  },
+  "author": "SSSINSI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sssinsi/textlint-sample/issues"
+  },
+  "homepage": "https://github.com/sssinsi/textlint-sample#readme",
+  "dependencies": {
+    "textlint": "^7.2.1",
+    "textlint-rule-max-ten": "^2.0.3",
+    "textlint-rule-no-mix-dearu-desumasu": "^3.0.3",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
